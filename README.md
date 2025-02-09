@@ -1,10 +1,10 @@
 # expense-tracker-app
 
-📌 Project Overview
+# 📌 Project Overview
 
 Expense Tracker is a simple web application implemented as a technical task for Palm AI. The web app allows users to track their expenses and incomes. Users can add, categorize, and delete transactions. The data is persisted in local storage, ensuring transactions remain saved even after refreshing the page.
 
-#🛠 Tech Stack
+# 🛠 Tech Stack
 
 Frontend: React (Vite), Tailwind CSS
 
@@ -14,7 +14,7 @@ Validation: Zod & React Hook Form
 
 Storage: Local Storage
 
-#🚀 Installation Instructions
+# 🚀 Installation Instructions
 
 Follow these steps to set up the project locally:
 
